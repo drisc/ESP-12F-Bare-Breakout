@@ -103,14 +103,14 @@
 <wire x1="21.966" y1="4.539" x2="21.966" y2="5.555" width="0.1524" layer="100"/>
 <wire x1="21.966" y1="5.555" x2="22.474" y2="5.936" width="0.1524" layer="100" curve="-90"/>
 <text x="20" y="32" size="1.27" layer="26" font="vector" rot="MR180" align="center">ESP-12F Breakout Board</text>
-<wire x1="1" y1="32" x2="5" y2="32" width="0.1524" layer="100"/>
-<wire x1="5" y1="32" x2="5" y2="2" width="0.1524" layer="100"/>
-<wire x1="5" y1="2" x2="1" y2="2" width="0.1524" layer="100"/>
-<wire x1="1" y1="2" x2="1" y2="32" width="0.1524" layer="100"/>
-<wire x1="35" y1="32" x2="39" y2="32" width="0.1524" layer="100"/>
-<wire x1="39" y1="32" x2="39" y2="2" width="0.1524" layer="100"/>
-<wire x1="39" y1="2" x2="35" y2="2" width="0.1524" layer="100"/>
-<wire x1="35" y1="2" x2="35" y2="32" width="0.1524" layer="100"/>
+<wire x1="1" y1="31" x2="5" y2="31" width="0.1524" layer="100"/>
+<wire x1="5" y1="31" x2="5" y2="3" width="0.1524" layer="100"/>
+<wire x1="5" y1="3" x2="1" y2="3" width="0.1524" layer="100"/>
+<wire x1="1" y1="3" x2="1" y2="31" width="0.1524" layer="100"/>
+<wire x1="35" y1="31" x2="39" y2="31" width="0.1524" layer="100"/>
+<wire x1="39" y1="31" x2="39" y2="3" width="0.1524" layer="100"/>
+<wire x1="39" y1="3" x2="35" y2="3" width="0.1524" layer="100"/>
+<wire x1="35" y1="3" x2="35" y2="31" width="0.1524" layer="100"/>
 <text x="33.004" y="29.718" size="1.27" layer="100" font="vector" align="center">TX</text>
 <text x="33.151" y="27.356" size="1.27" layer="100" font="vector" align="center">RX</text>
 <text x="33.147" y="14.732" size="1.27" layer="100" font="vector" align="center">#15</text>

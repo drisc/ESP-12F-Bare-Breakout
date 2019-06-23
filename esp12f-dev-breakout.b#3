@@ -70,7 +70,7 @@
 <text x="6.858" y="27.305" size="1.27" layer="100" font="vector" align="center">ADC</text>
 <text x="6.858" y="24.638" size="1.27" layer="100" font="vector" align="center">EN</text>
 <text x="6.858" y="22.225" size="1.27" layer="100" font="vector" align="center">#16</text>
-<text x="6.858" y="19.812" size="1.27" layer="52" font="vector" align="center">#14</text>
+<text x="6.858" y="19.812" size="1.27" layer="100" font="vector" align="center">#14</text>
 <text x="6.858" y="17.272" size="1.27" layer="100" font="vector" align="center">#12</text>
 <text x="6.858" y="14.732" size="1.27" layer="100" font="vector" align="center">#13</text>
 <text x="6.858" y="12.065" size="1.27" layer="100" font="vector" align="center">VCC</text>
@@ -111,6 +111,17 @@
 <wire x1="39" y1="32" x2="39" y2="2" width="0.1524" layer="100"/>
 <wire x1="39" y1="2" x2="35" y2="2" width="0.1524" layer="100"/>
 <wire x1="35" y1="2" x2="35" y2="32" width="0.1524" layer="100"/>
+<text x="33.004" y="29.718" size="1.27" layer="100" font="vector" align="center">TX</text>
+<text x="33.151" y="27.356" size="1.27" layer="100" font="vector" align="center">RX</text>
+<text x="33.147" y="14.732" size="1.27" layer="100" font="vector" align="center">#15</text>
+<text x="33.147" y="22.352" size="1.27" layer="100" font="vector" align="center">#04</text>
+<text x="32.639" y="19.812" size="1.27" layer="100" font="vector" align="center">#0</text>
+<text x="33.147" y="17.272" size="1.27" layer="100" font="vector" align="center">#02</text>
+<text x="33.094" y="24.746" size="1.27" layer="100" font="vector" align="center">#05</text>
+<text x="33" y="12" size="1.27" layer="100" font="vector" align="center">GND</text>
+<text x="32.766" y="9.525" size="1.27" layer="100" font="vector" align="center">SCLK</text>
+<text x="32.766" y="6.985" size="1.27" layer="100" font="vector" align="center">MOSI</text>
+<text x="33.147" y="4.445" size="1.27" layer="100" font="vector" align="center">#10</text>
 </plain>
 <libraries>
 <library name="con-lstb" urn="urn:adsk.eagle:library:162">
